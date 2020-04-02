@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>C:/Users/aniket/Pictures/Icons/fiber_new-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/local_printshop-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/open_in_new-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/redo-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/save_alt-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/undo-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/delete-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/file_copy-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/input-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/text_rotation_down-black-24dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/clear-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/zoom_in-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/zoom_out-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/format_clear-black-18dp.svg</file>
+        <file>C:/Users/aniket/Pictures/Icons/logo.png</file>
+    </qresource>
+</RCC>
